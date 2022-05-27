@@ -1,0 +1,2290 @@
+
+<!DOCTYPE html>
+<html lang="id" data-culture="id-ID" dir="ltr">
+
+<head>
+    
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Indo medika International",
+  "alternateName": "PT. Megatama Adikarya",
+  "url": "https://indomedika.co.id/",
+  "logo": "https://indomedika.co.id/public/web/assets/img/index/logo.png",
+  "contactPoint": [{
+    "@type": "ContactPoint",
+    "telephone": "082110039600",
+    "contactType": "emergency",
+    "areaServed": "ID",
+    "availableLanguage": "Indonesian"
+  },{
+    "@type": "ContactPoint",
+    "telephone": "085890075173",
+    "contactType": "customer service",
+    "areaServed": "ID",
+    "availableLanguage": "en"
+  }],
+  "sameAs": [
+    "https://www.facebook.com/pages/category/Occupational-Safety-and-Health-Service/Indo-Medika-International-106990891054989/",
+    "https://twitter.com/IndoMedika?s=20",
+    "https://www.instagram.com/indomedikainternational/",
+    "https://www.youtube.com/channel/UCowZMjrdEjZDI-gOD3Q3Bjw/featured",
+    "https://www.linkedin.com/company/indo-medika-international/",
+    "https://indomedika.co.id/"
+  ]
+}
+</script>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Indo medika International",
+  "image": "https://indomedika.co.id/public/web/assets/img/index/logo.png",
+  "@id": "",
+  "url": "https://www.google.com/maps/place/Indo+Medika+International+Clinic/@-6.298334,106.829914,15z/data=!4m5!3m4!1s0x0:0xd5ee493ecfc6477c!8m2!3d-6.2981485!4d106.8299805?hl=en",
+  "telephone": "02122780119",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Plaza Oleos, Jl. TB Simatupang No.53A, RT.2/RW.1, Kebagusan, Kec. Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12520",
+    "addressLocality": "Jakarta",
+    "postalCode": "12520",
+    "addressCountry": "Indonesia",
+    "addressRegion": "12520"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "opens": "08:00",
+      "closes": "17:00"
+    }
+  ]
+}
+</script>
+    
+    
+    
+   <script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "WebSite",
+  "name": "Indo Medika International",
+  "url": "https://indomedika.co.id/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://indomedika.co.id/regist{search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script> 
+    
+    
+    
+    
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "HowTo", 
+  "name": "Bagaimana Cara mendapatkan sertifikat k3 (Ak3u) kemnaker?",
+  "description": "Pelatihan k3, PELATIHAN K3 Kemnaker , PELATIHAN AK3U , Refreshment AHLI K3 UMUM , Training Spirometri & Audiometri, K3RS & FASYANKES | SERTIFIKASI KAK3RS , Cek Keaslian Sertifikat,SKP & LISENSI , SERTIFIKAT K3 , SERTIFIKASI K3",
+  "totalTime": "PT21600M",
+  "image": "https://indomedika.co.id/public/web/assets/img/training/ak3u2.webp",
+  "estimatedCost": {
+    "@type": "MonetaryAmount",
+    "currency": "IDR",
+    "value": "3900000"
+  },
+  "supply": {
+    "@type": "HowToSupply",
+    "name": "Kementrian Tenaga Kerja Republik Indonesia ( kemnaker )"
+  },
+  "step": [{
+    "@type": "HowToStep",
+    "text": "1.Baca deskripsi Pelatihan, Dasar Hukum , Tujuan Pelatihan , syarat Pelatihan K3 ( ak3u )",
+    "name": "PELATIHAN AK3U - SERTIFIKAT K3 - AHLI K3 UMUM KEMNAKER RI - PELATIHAN K3",
+    "url": "https://indomedika.co.id/training/pelatihan_ahli_K3_umum"
+  },{
+    "@type": "HowToStep",
+    "text": "2.Daftar Pelatihan Ak3u di Indo Medika international , isi formulir yang disediakan , jika kurang jelas tanyakan kepada admin kami. sertakan juga syarat yang ditentukan.",
+    "name": "PENDAFTARAN PELATIHAN AK3U - SERTIFIKAT K3 - AHLI K3 UMUM KEMNAKER RI - PELATIHAN K3",
+    "url": "https://indomedika.co.id/training/regist_ahli_K3_umum"
+  },{
+    "@type": "HowToStep",
+    "text": "3. Lakukan Pembayaran dengan metode dan jumlah biaya yang ditentukan.",
+    "url": "https://indomedika.co.id/training/pelatihan_ahli_K3_umum"
+  },{
+    "@type": "HowToStep",
+    "text": "4. Ikuti Pelatihan selama 12 Hari Kerja dan selesaikan ujian testnya.",
+    "url": "https://indomedika.co.id/training/pelatihan_ahli_K3_umum"
+  },{
+    "@type": "HowToStep",
+    "text": "5. Setelah dinyatakan lulus , akan dikirimkan Sertifikat k3 ( ak3u ) Kemnaker dan sertifikat Internal Indo Medika.",
+    "url": "https://indomedika.co.id/regist"
+  },{
+    "@type": "HowToStep",
+    "text": "6. Cek sertifikat K3 dapat dilakukan di website Indo Medika International",
+    "url": "https://indomedika.co.id/regist"
+  }]    
+}
+</script>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+ 
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>     
+     
+<!-- Google Tag Manager 
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PBGW9H4');</script>
+ End Google Tag Manager -->
+ 
+ <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VNXFP5B674"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VNXFP5B674');
+</script>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+  
+    
+   <script src="https://www.googleoptimize.com/optimize.js?id=OPT-WXK5KKD"></script> 
+    
+    
+
+
+  <!-- Favicons -->
+  <link href="https://indomedika.co.id/public/web/assets/img/logo-ico.png" rel="icon">
+ 
+  
+  
+ <link rel="icon" type="image/png" sizes="16x16" href="https://indomedika.co.id/public/web/assets/img/logo-ico.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://indomedika.co.id/public/web/assets/img/logo-ico.png">
+  <link rel="icon" type="image/png" sizes="48x48" href="https://indomedika.co.id/public/web/assets/img/logo-ico.png">
+  <link rel="icon" type="image/png" sizes="64x64" href="https://indomedika.co.id/public/web/assets/img/logo-ico.png">
+  <link rel="icon" type="image/png" sizes="128x128" href="https://indomedika.co.id/public/web/assets/img/logo-ico.png">  
+  
+  
+<link rel="apple-touch-icon" sizes="120x120" href="https://indomedika.co.id/public/web/assets/img/logo-ico.png" /> 
+<link rel="apple-touch-icon" sizes="152x152" href="https://indomedika.co.id/public/web/assets/img/logo-ico.png" /> 
+
+  
+  
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="https://indomedika.co.id/public/web/assets/vendor/font-awesome/font-awesome.min.css" />
+
+  <!-- Google Fonts -->
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="https://indomedika.co.id/public/web/assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="https://indomedika.co.id/public/web/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://indomedika.co.id/public/web/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="https://indomedika.co.id/public/web/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="https://indomedika.co.id/public/web/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="https://indomedika.co.id/public/web/assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="https://indomedika.co.id/public/web/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+
+
+  <!-- Template Main CSS File -->
+  <link href="https://indomedika.co.id/public/web/assets/css/stylesx.css" rel="stylesheet">
+   <link href="https://indomedika.co.id/public/web/assets/css/button.css" rel="stylesheet">
+
+   <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
+
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css"/> 
+    
+    
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+
+* {
+  box-sizing: border-box;
+}
+
+.openBtn {
+  background: #f1f1f1;
+  border: none;
+  padding: 10px 15px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.openBtn:hover {
+  background: #bbb;
+}
+
+.overlay {
+  height: 100%;
+  width: 100%;
+  display: none;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0, 0.9);
+}
+
+.overlay-content {
+  position: relative;
+  top: 46%;
+  width: 80%;
+  text-align: center;
+  margin-top: 30px;
+  margin: auto;
+}
+
+.overlay .closebtn {
+  position: absolute;
+  top: 20px;
+  right: 45px;
+  font-size: 60px;
+  cursor: pointer;
+  color: white;
+}
+
+.overlay .closebtn:hover {
+  color: #ccc;
+}
+
+.overlay input[type=text] {
+  padding: 15px;
+  font-size: 17px;
+  border: none;
+  float: left;
+  width: 80%;
+  background: white;
+}
+
+.overlay input[type=text]:hover {
+  background: #f1f1f1;
+}
+
+.overlay button {
+  float: left;
+  width: 20%;
+  padding: 15px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+.overlay button:hover {
+  background: #bbb;
+}
+</style>
+
+
+
+    
+    
+    
+<style>
+    
+.post-slide{
+    overflow: hidden;
+   
+}
+.post-slide .post-img {
+    float: left;
+    width:auto;
+    margin: auto;
+    border:3px solid #38cfd8;
+}
+.post-slide .post-img img{
+    width: 400px;
+    height:225px;
+    margin: auto;
+    
+}
+.post-slide .post-date{
+    background: #ec3c6a;
+    color:#fff;
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: block;
+    padding: 2% 3%;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    transition:all 0.80s ease;
+}
+.post-slide .date{
+    display: block;
+    font-size:22px;
+    font-weight: 700;
+}
+.post-slide .month{
+    display: block;
+    font-size:11px;
+    text-transform: uppercase;
+}
+.post-slide .post-review {
+    padding:  0;
+    border-top: 3px solid #38cfd8;
+}
+.post-slide:hover .post-review{
+    border-top-color:#ec3c6a;
+}
+.post-slide .post-title{
+   
+     text-align:center;
+      font-weight: bold;
+}
+.post-slide .post-title a{
+    font-size:18px;
+    color:#010483;
+    text-transform:uppercase;
+   
+    
+}
+.post-slide .post-title a:hover{
+    text-decoration:none;
+    font-weight: bold;
+}
+.post-slide .post-bar{
+ 
+    list-style:none;
+   
+    position: relative;
+    margin-bottom: 2px;
+}
+.post-slide .post-bar:after,
+.post-slide .post-bar:before{
+   
+}
+.post-slide .post-bar:before{
+    
+}
+.post-slide .post-bar li{
+    color:#555;
+    font-size:14px;
+    margin-right:5px;
+    display:inline-block;
+}
+.post-slide .post-bar li a{
+    font-size: 14px;
+    text-decoration:none;
+   
+    color:#02581c;
+}
+.post-slide .post-bar li a:hover{
+    color:#02581c;
+}
+.post-slide .post-bar li i{
+    color:#777;
+    margin-right:5px;
+}
+.post-slide .post-description{
+    font-size:16px;
+    
+    color:#444454;
+    margin-left:5px;
+    margin-right:5px;
+}
+.owl-theme .owl-controls{
+    margin-top: 10px;
+}
+.owl-theme .owl-controls .owl-page span{
+    background: #fff;
+    border: 2px solid #37a6a4;
+}
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span{
+    background: #37a6a4;
+}
+@media only screen and (max-width: 1500px) {
+    .post-slide .post-img {
+        width:100%;
+    }
+    .post-slide .post-review{
+        width:100%;
+        border-bottom: 4px solid #ec3c6a;
+    }
+    .post-slide .post-bar:before{
+        left: 0;
+    }
+    .post-slide .post-bar:after{
+        left: 25px;
+    }
+}
+</style>
+
+
+   <style>
+.search {
+    position: relative;
+    box-shadow: 0 0 40px rgba(51, 51, 51, .1);
+    margin-left:15px;
+}
+
+.search input {
+    height: 60px;
+    text-indent: 25px;
+    border: 2px solid #d6d4d4;
+     
+    
+  
+    
+}
+
+.search input:focus {
+    box-shadow: none;
+    border: 2px solid blue
+}
+
+.search .fa-search {
+    position: absolute;
+    top: 20px;
+    left: 16px
+}
+
+.search button {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    height: 50px;
+    width: 110px;
+    background: blue
+}</style>
+  
+
+
+<script>
+function openSearch() {
+  document.getElementById("myOverlay").style.display = "block";
+}
+
+function closeSearch() {
+  document.getElementById("myOverlay").style.display = "none";
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+  <link href="https://indomedika.co.id/training/pelatihan_ahli_K3_umum" rel="canonical"/>
+  
+  <!-- End Header -->
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://indomedika.co.id/training/pelatihan_ahli_K3_umum"
+  },
+  "headline": "PELATIHAN AK3U - SERTIFIKAT K3 - AHLI K3 UMUM KEMNAKER RI - PELATIHAN K3 - PELATIHAN AK3 UMUM",
+  
+  "description": "Menyediakan jasa PELATIHAN AK3U - Pelatihan AK3U kemnaker - SERTIFIKASI K3 -AK3 UMUM Online ,Sertifikasi K3, Sertifikat K3 , Sertifikasi AK3U , murah Pelatihan ahli K3 umum merupakan pelatihan di bidang Keselamatan dan Kesehatan Kerja agar peserta mendapat pembelajaran dan kemampuan secara lengkap dalam operasional K3 secara umum. Pelatihan ini secara umum menyangkut pemeliharaan kesehatan dan keselamatan di lingkup kerja, perlindungan terhadap rekan kerja, keluarga pekerja, konsumen, serta orang lain yang mungkin terdampak dengan lingkungan kerja. Sertifikat ahli K3 umum menjadi persyaratan ahli K3 umum yang bisa diajukan oleh perusahan-perusahaan pada umumnya. Pelatihan ini juga mengarahkan pada bagaimana pentingnya K3 terhadap moral, legalitas, dan finansial baik perorangan maupun perusahaan. Pada pelatihan ahli K3 umum anda akan mendapatkan pembelajaran terkait pencegahan, pemberian sanksi, kompensasi kecelakaan kerja, perawatan dan penyembuhan luka akibat kecelakaan kerja, serta penyediaan perawatan kesehatan. Sertifikasi ahli K3 umum menandakan anda memiliki kemampuan yang bisa anda terapkan pada perusahaan-perusahaan umum terkait keselamatan dan kesehatan kerja. Dasar Hukum : Ahli K3 umum adalah individu terdidik dan terlatih di bidang K3 yang berkompetensi untuk melakukan tindakan operasional K3 sesuai bidang perusahaan tersebut yang dibuktikan dengan sertifikat ahli K3 umum. Keberadaan ahli K3 umum dalam suatu perusahaan ini menjadi kewajiban yang dicanangkan oleh pemerintah kepada perusahaan-perusahaan untuk mengurangi resiko kerja. Tentu saja pelatihan ahli K3 umum dilatarbelakangi peraturan-peraturan pemerintah terkait K3 ini. Dengan kewajiban adanya ahli K3 umum di berbagai instansi, tentu saja perlu adanya pembaharuan SDM yang kompeten di bidang ini. UU no. 1 Tahun 1970, Permen No.4/MEN/87 pasal 2 yang mengharuskan setiap perusahaan memiliki ahli K3. Kemenker No.239/MEN/2003 yang mengatur Pedoman Pelaksanaan Sertifikasi Kompetensi. Ada pula PerMenTenaga Kerja Per.02/Men/1992 yang mengatur tata cara penunjukan, kewajiban, dan wewenang ahli keselamatan dan kesehatan kerja. Salah satu lembaga yang berwenang mengeluarkan sertifikat ahli K3 umum adalah Kemenaker. Keberadaan ahli K3 juga diperlukan dalam perusahaan mengingat adanya undang-undang Jaminan Sosial dan Jaminan Lain Tenaga Kerja. Pada UU no 3 Tahun 1992 tentang Jamsostek mewajibkan perusahaan menjamin kepentingan hari tua dan perlindungan lainnya kepada tenaga kerja. Jaminan tersebut diantaranya menyangkut Jaminan Kecelakaan kerja, Jaminan Hari Tua, Jaminan Pemeliharaan Kesehatan, serta Jaminan Kematian. Tujuan Pelatihan : Peserta pelatihan diharapkan mampu bekerja dan melaksanakan pembinaan fungsi K3 di perusahaan terkait serta melaksanakan tugas dan tanggung jawab sesuai peraturan perundang-undangan yang berlaku. Dengan adanya pelatihan ini diharapkan semakin banyak tenaga ahli K3 yang dapat melakukan pekerjaan sesuai dengan yang diwajibkan dalam pedoman hukum yang telah disebut di atas. Tenaga ahli K3 terlatih dan tersertifikasi diharapkan dapat melaksanakan tugas dan tanggung jawab terkait Keselamatan dan Kesehatan Kerja sesuai dengan bidang pekerjaan di suatu perusahaan tertentu. Keberadaan ahli K3 umum di berbagai sektor industri diharapkan meminimalisir terjadinya kecelakaan kerja, yang tidak hanya merugikan pekerja namun juga perusahaan.Modul Pelatihan1. Peraturan K32. UU No. 1 Tahun 19703. Konsep Dasar K34. P2K35. K3 Listrik6. K3 Pemadam Kebakaran7. K3 Konstruksi8. K3 Bejana Tekanan9. K3 Pesawat Uap10. K3 Kesehatan Kerja Mekanik 11. Lingkungan Kerja 12. Statistik dan Pelaporan Kecelakaan Kerja 13. SMK3 14. SMK3 Audit 15. Manajemen Risiko 16. Analisis Kecelakaan Kerja 17. Job Training 18. Job Safety Analysis 19. Prosedur Kerja 20. Ujian Akhir 21. Membuat Laporan 22. Kesimpulan Peserta : Training ini dibutuhkan oleh praktisi K3, supervisor, anggota P2K3, dan lainnya. Persyaratan minimumnya adalah pendidikan D3 atau setara dari seluruh area bisnis, termasuk manufaktur, konstruksi, pelayanan, hospitality, transportasi, rumah sakit, supermarket/hypermarket/retail, dan lainnya. Persyaratan Administrasi 1. Pendidikan terakhir minimal D3 2. Melampirkan foto copy ijazah terakhir 3. Melampirkan foto copy KTP/SIM 4. Melampirkan pas foto background merah ukuran 1,5cm x 2cm 4cm x 6cm masing-masing 4 lembar 5. Melampirkan surat keterangan sehat dari klinik /RS terdekat 6. Melampirkan surat pengantar /keterangan /penunjukan dari perusahaan 7. Selfie dengan KTP 8. Pakta Integritas . Metode Pelatihan : • Pre-Test • Penjelasan materi/presentasi • Film/Video • Studi Kasus • Diskusi dan tanya-jawab • Ringkasan dan kesimpulan • Post Test/Assessment",
+  
+  
+  
+  "image": "https://indomedika.co.id//public/web/assets/img/training/ak3u2.webp",  
+  "author": {
+    "@type": "Organization",
+    "name": "PT. Megatama Adikarya",
+    "url": "https://indomedika.co.id/"
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Google News Pubisher",
+    "logo": {
+      "@type": "ImageObject",
+      "url": ""
+    }
+  },
+  "datePublished": "2022-05-19",
+  "dateModified": "2022-05-22"
+}
+</script>
+
+<!-- Primary Meta Tags -->
+<title>PELATIHAN AK3U - AHLI K3 UMUM KEMNAKER RI - SERTIFIKAT K3 - AK3 UMUM </title>
+<meta name="title" content="PELATIHAN AK3U - AHLI K3 UMUM KEMNAKER RI - SERTIFIKASI K3 -AK3 UMUM ">
+<meta name="description" content="Menyediakan jasa PELATIHAN AK3U - Pelatihan AK3U kemnaker - SERTIFIKASI K3 -AK3 UMUM Online ,Sertifikasi K3, Sertifikat K3 , Sertifikasi AK3U , murah ">
+<meta name="keywords" content="Pelatihan AK3U,k3,Online,Kemnaker ,AK3U ,Refreshment ,AHLI,K3,UMUM ,Training ,Spirometri,Audiometri,,K3RS,FASYANKES,SERTIFIKASI,KAK3RS ,cek,serfitikat K3,SKP,LISENSI,pelatihan ak3u kemnaker">
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://indomedika.co.id/regist/ak3u">
+<meta property="og:title" content="PELATIHAN AK3U - AHLI K3 UMUM KEMNAKER RI - SERTIFIKASI K3 -AK3 UMUM ">
+<meta property="og:description" content="MMenyediakan jasa PELATIHAN AK3U - Pelatihan AK3U kemnaker - SERTIFIKASI K3 -AK3 UMUM Online ,Sertifikasi K3, Sertifikat K3 , Sertifikasi AK3U , murah">
+<meta property="og:image" content="https://indomedika.co.id/public/web/assets/img/training/ak3u2.webp">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://indomedika.co.id/regist/ak3u">
+<meta property="twitter:title" content="PELATIHAN AK3U - AHLI K3 UMUM KEMNAKER RI - SERTIFIKASI K3 -AK3 UMUM ">
+<meta property="twitter:description" content="MMenyediakan jasa PELATIHAN AK3U - Pelatihan AK3U kemnaker - SERTIFIKASI K3 -AK3 UMUM Online ,Sertifikasi K3, Sertifikat K3 , Sertifikasi AK3U , murah">
+<meta property="twitter:image" content="https://indomedika.co.id/public/web/assets/img/training/ak3u2.webp">
+
+
+
+	
+	
+  </head>
+    
+    <body>
+
+
+
+ <div id="preloader"></div>
+
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top d-flex align-items-center header-transparent">
+      
+      
+    <div class="container d-flex align-items-center justify-content-between">
+
+      <div class="logo">
+
+        <!-- Uncomment below if you prefer to use an image logo -->
+         <a href="https://indomedika.co.id"><img src="https://indomedika.co.id/public/web/assets/img/index/logo.png" alt="Logo Indo medika International" width=110 height=110 class="img-fluid"></a>
+
+
+
+      		   </div>
+
+
+      <nav id="navbar" class="navbar">
+        <ul>
+
+
+          <li><a class="nav-link scrollto " href="https://indomedika.co.id">Home</a></li>
+
+          <li class="dropdown"><a href="https://indomedika.co.id/about"><span>Tentang Kami</span> <i class="bi bi-chevron-down"></i></a>
+               <ul>
+            <li><a href="https://indomedika.co.id/about/client">Klien</a></li>
+           <li><a href="https://indomedika.co.id/about/partner">Partner</a></li>
+           <li><a href="https://indomedika.co.id/about">Tentang Kami</a></li>
+           <li><a href="https://indomedika.co.id/about/management">Management</a></li>
+           <li class="dropdown"><a href="#"><span>Lisensi</span> <i class="bi bi-chevron-right"></i></a>
+              <ul>
+                <li><a href="https://indomedika.co.id/lisensi/PJK3_PELAYANAN_KESEHATAN_KERJA">PJK3 Pelayanan Kesehatan Kerja</a></li>
+                <li><a href="https://indomedika.co.id/lisensi/PJK3_PEMBINAAN_KESEHATAN_KERJA">PJK3 Pembinaan Kesehatan Kerja  </a></li>
+                <li><a href="https://indomedika.co.id/lisensi/PJK3_AHLI_K3_UMUM">PJK3 Ahli K3 Umum </a></li>
+                
+              </ul>
+            </li>
+           
+           
+
+
+               </ul>
+             </li>
+
+
+
+
+          <li><a class="nav-link scrollto" href="https://indomedika.co.id/servicesus/">Pelayanan</a></li>
+
+		  <li class="dropdown"><a href="#"><span>Pelatihan</span> <i class="bi bi-chevron-down"></i></a>
+            <ul> <li>
+               <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" data-whatever="">Cek Sertifikat</button>
+                
+                </li>
+              <li><a href="#">Jadwal</a></li>
+           
+              
+              
+              
+
+			   <li class="dropdown"><a href="#"><span>Kemnaker</span> <i class="bi bi-chevron-right"></i></a>
+              <ul>
+                <li><a href="https://indomedika.co.id/training/pelatihan_ahli_K3_umum">AK3U</a></li>
+                <li><a href="#">AUDIT SMK3</a></li>
+                <li><a href="https://indomedika.co.id/training/refres_ahli_K3_umum">Refreshment AK3U</a></li>
+                <li><a href="#">Perpanjangan SKP</a></li>
+               <li><a href="https://indomedika.co.id/training/training_online_petugas_p3k">P3K (First AID)</a></li>
+              </ul>
+            </li>
+
+
+
+			 <li class="dropdown"><a href="#"><span>BNSP</span> <i class="bi bi-chevron-right"></i></a>
+              <ul>
+                <li><a href="#">AK3 Muda</a></li>
+                <li><a href="#">AK3 Madya</a></li>
+                <li><a href="#">AK3 Listrik</a></li>
+                <li><a href="#">AK3 Konstruksi</a></li>
+
+              </ul>
+            </li>
+
+
+			 <li class="dropdown"><a href="#"><span>Non Sertifikat</span> <i class="bi bi-chevron-right"></i></a>
+              <ul>
+                <li><a href="#">Safety Leadership</a></li>
+                <li><a href="#">Safety Climet</a></li>
+                <li><a href="#">B3</a></li>
+				 <li><a href="#">ISO</a></li>
+                <li><a href="#">CSMS</a></li>
+
+              </ul>
+            </li>
+
+
+
+
+
+            </ul>
+          </li>
+
+
+
+
+
+
+          <li><a class="nav-link scrollto" href="https://indomedika.co.id/regist">Daftar</a></li>
+          <li><a class="nav-link scrollto" href="https://indomedika.co.id/contact">Hubungi Kami</a></li>
+          <li><a class="nav-link scrollto" href="https://indomedika.co.id/career">Karir</a></li>
+		  <li><a class="nav-link scrollto" href="https://artikel.indomedika.co.id">Artikel</a></li>
+
+
+
+
+          <li><a class="nav-link scrollto" href="https://indomedika.co.id/faq">FAQ</a></li>
+
+
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+
+
+
+
+    </div>
+  </header>
+  
+  
+   	
+	
+	
+	
+	
+
+
+<section id="features" class="features">
+  <div class="container">
+
+    <div class="section-title" data-aos="fade-up">
+
+      <p>&nbsp;</p>
+      <h2><br>Pelatihan K3 dan sertifikasi K3 </h2>
+      <H1>PELATIHAN AK3U  - SERTIFIKAT K3 - AHLI K3 UMUM KEMNAKER RI - PELATIHAN K3
+      
+      </H1>
+    </div>
+
+  </div>
+</section><!-- End Features Section -->
+
+<!-- ======= Details Section ======= -->
+<section id="details" class="details">
+  <div class="container">
+
+    <div class="row content">
+        
+      <div class="col-md-6" data-aos="fade-right">
+        <img src="https://indomedika.co.id//public/web/assets/img/training/ak3u2.webp" class="img-fluid" style="width:100%" alt="Menyediakan jasa Pelatihan ( Pelatihan ak3u ) Ahli K3 Umum kemnaker RI Online ,Sertifikasi K3, Sertifikat K3 , Sertifikasi AK3U , ak3 Umum">
+      </div>
+      <div class="col-md-6 pt-6" data-aos="fade-up">
+        <h3>Deskripsi Pelatihan</h3>
+        <p style="text-align: justify;" >
+        &ensp;&ensp; Pelatihan ahli K3 umum merupakan pelatihan di bidang Keselamatan dan Kesehatan Kerja agar peserta mendapat pembelajaran dan kemampuan secara lengkap dalam operasional K3 secara umum. Pelatihan ini secara umum menyangkut pemeliharaan kesehatan dan keselamatan di lingkup kerja, perlindungan terhadap rekan kerja, keluarga pekerja, konsumen, serta orang lain yang mungkin terdampak dengan lingkungan kerja. Sertifikat ahli K3 umum menjadi persyaratan ahli K3 umum yang bisa diajukan oleh perusahan-perusahaan pada umumnya.<br>
+
+Pelatihan ini juga mengarahkan pada bagaimana pentingnya K3 terhadap moral, legalitas, dan finansial baik perorangan maupun perusahaan. Pada pelatihan ahli K3 umum anda akan mendapatkan pembelajaran terkait pencegahan, pemberian sanksi, kompensasi kecelakaan kerja, perawatan dan penyembuhan luka akibat kecelakaan kerja, serta penyediaan perawatan kesehatan. Sertifikasi ahli K3 umum menandakan anda memiliki kemampuan yang bisa anda terapkan pada perusahaan-perusahaan umum terkait keselamatan dan kesehatan kerja.
+
+
+          </p> 
+          <a href="https://indomedika.co.id/regist"   class="btn btn-success"><b>DAFTAR PELATIHAN AK3U - SERTIFIKASI K3 </b></a> 
+          
+          
+          <a class='btn btn-danger' href='https://indomedika.co.id/public/web/assets/pdf/Proposal%20Training%20AK3U.pdf'  >Proposal Training AK3U</a>
+        <br>
+         <br>
+        Info Lebih Lanjut : <br>
+        
+        
+         <a class='btn btn-success' href='https://api.whatsapp.com/send?phone=+6285890075173&text=HalO....Saya%20ingin%20mengetahui%20Info%20PELATIHAN%0AAHLI%20K3%20UMUM%20KEMNAKER%20RI'>
+         <i class="fab fa-whatsapp" ></i> Admin 1</a>&nbsp;
+         
+         
+         <a class='btn btn-success' href='https://api.whatsapp.com/send?phone=+6285890075164&text=Halo....Saya%20ingin%20mengetahui%20Info%20PELATIHAN%0AAHLI%20K3%20UMUM%20KEMNAKER%20RI'>
+         <i class="fab fa-whatsapp" ></i> Admin 2</a>
+         
+         
+&nbsp;<a class='btn btn-success' href='mailto:cs@indomedika.co.id'>
+         <i class="fas fa-envelope" ></i> email </a>         
+         
+         
+         
+         
+        
+        
+        
+        
+        
+        
+        
+        
+        <br>
+         
+
+      </div>
+    </div>
+
+
+
+    <div class="row content">
+      <div class="col-md-4" data-aos="fade-right">
+        <img src="https://indomedika.co.id/public/web/assets/img/pelatihan/ak3u/k3u-3.webp" class="img-fluid" alt="Menyediakan jasa Pelatihan ( Pelatihan ak3u ) Ahli K3 Umum kemnaker RI Online ,Sertifikasi K3, Sertifikat K3 , Sertifikasi AK3U , ak3 Umum">
+      </div>
+      <div class="col-md-8 pt-5" data-aos="fade-up">
+        <h3>Dasar Hukum</h3>
+        <p>
+Ahli K3 umum adalah individu terdidik dan terlatih di bidang K3 yang berkompetensi untuk melakukan tindakan operasional K3 sesuai bidang perusahaan tersebut yang dibuktikan dengan sertifikat ahli K3 umum. Keberadaan ahli K3 umum dalam suatu perusahaan ini menjadi kewajiban yang dicanangkan oleh pemerintah kepada perusahaan-perusahaan untuk mengurangi resiko kerja. Tentu saja pelatihan ahli K3 umum dilatarbelakangi peraturan-peraturan pemerintah terkait K3 ini. Dengan kewajiban adanya ahli K3 umum di berbagai instansi, tentu saja perlu adanya pembaharuan SDM yang kompeten di bidang ini.<br>
+UU no. 1 Tahun 1970, Permen No.4/MEN/87 pasal 2 yang mengharuskan setiap perusahaan memiliki ahli K3. Kemenker No.239/MEN/2003 yang mengatur Pedoman Pelaksanaan Sertifikasi Kompetensi. Ada pula PerMenTenaga Kerja Per.02/Men/1992 yang mengatur tata cara penunjukan, kewajiban, dan wewenang ahli keselamatan dan kesehatan kerja. Salah satu lembaga yang berwenang mengeluarkan sertifikat ahli K3 umum adalah Kemenaker. <br>
+Keberadaan ahli K3 juga diperlukan dalam perusahaan mengingat adanya undang-undang Jaminan Sosial dan Jaminan Lain Tenaga Kerja. Pada UU no 3 Tahun 1992 tentang Jamsostek mewajibkan perusahaan menjamin kepentingan hari tua dan perlindungan lainnya kepada tenaga kerja. Jaminan tersebut diantaranya menyangkut Jaminan Kecelakaan kerja, Jaminan Hari Tua, Jaminan Pemeliharaan Kesehatan, serta Jaminan Kematian.
+
+
+
+
+        </p>
+        
+         <h3>Tujuan Pelatihan</h3>
+         <p>
+             
+             
+             
+             Peserta pelatihan diharapkan mampu bekerja dan melaksanakan pembinaan fungsi K3 di perusahaan terkait serta melaksanakan tugas dan tanggung jawab sesuai peraturan perundang-undangan yang berlaku. Dengan adanya pelatihan ini diharapkan semakin banyak tenaga ahli K3 yang dapat melakukan pekerjaan sesuai dengan yang diwajibkan dalam pedoman hukum yang telah disebut di atas. Tenaga ahli K3 terlatih dan tersertifikasi diharapkan dapat melaksanakan tugas dan tanggung jawab terkait Keselamatan dan Kesehatan Kerja sesuai dengan bidang pekerjaan di suatu perusahaan tertentu. Keberadaan ahli K3 umum di berbagai sektor industri diharapkan meminimalisir terjadinya kecelakaan kerja, yang tidak hanya merugikan pekerja namun juga perusahaan.
+         </p>
+        
+       
+
+        <a href="https://indomedika.co.id/regist"  class="btn btn-success"><b>DAFTAR PELATIHAN AK3U - SERTIFIKASI K3 </b> </a>
+      </div>
+    </div>
+
+    <div class="row content">
+      <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
+        <img src="https://indomedika.co.id/public/web/assets/img/pelatihan/ak3u/k3u-4.webp" class="img-fluid" alt="Menyediakan jasa Pelatihan ( Pelatihan ak3u ) Ahli K3 Umum kemnaker RI Online ,Sertifikasi K3, Sertifikat K3 , Sertifikasi AK3U , ak3 Umum">
+      </div>
+      <div class="col-md-8 pt-5 order-2 order-md-1" data-aos="fade-up">
+        <h3> Modul Pelatihan</h3>
+
+        
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+     
+         1.	Peraturan K3<br>
+2.	UU No. 1 Tahun 1970<br>
+3.	Konsep Dasar K3<br>
+4.	P2K3<br>
+5.	K3 Listrik<br>
+6.	K3 Pemadam Kebakaran<br>
+7.	K3 Konstruksi<br>
+8.	K3 Bejana Tekanan <br>
+9.	K3 Pesawat Uap<br>
+10.	K3 Kesehatan Kerja Mekanik<br>
+11.	Lingkungan Kerja<br>
+
+    </div>
+    <div class="col-sm">
+        12.	Statistik dan Pelaporan Kecelakaan Kerja<br>
+13.	SMK3<br>
+14.	SMK3 Audit<br>
+15.	Manajemen Risiko<br>
+16.	Analisis Kecelakaan Kerja<br>
+17.	Job Training<br>
+18.	Job Safety Analysis<br>
+19.	Prosedur Kerja<br>
+20.	Ujian Akhir<br>
+21.	Membuat Laporan<br>
+22.	Kesimpulan
+    </div>
+    
+  </div>
+</div>
+
+
+
+        
+        <a href="https://indomedika.co.id/regist"   class="btn btn-success"><b>DAFTAR PELATIHAN AK3U - SERTIFIKASI K3 </b>  </a>
+
+
+      </div>
+    </div>
+
+
+    <div class="row content">
+      <div class="col-md-4" data-aos="fade-right">
+        <img src="https://indomedika.co.id/public/web/assets/img/pelatihan/ak3u/k3u-1.webp" class="img-fluid" alt="Menyediakan jasa Pelatihan ( Pelatihan ak3u ) Ahli K3 Umum kemnaker RI Online ,Sertifikasi K3, Sertifikat K3 , Sertifikasi AK3U , ak3 Umum">
+      </div>
+      <div class="col-md-8 pt-5" data-aos="fade-up">
+          
+          
+ <h3> Peserta</h3><p>
+ Training ini dibutuhkan oleh praktisi K3, supervisor, anggota P2K3, dan lainnya. Persyaratan minimumnya adalah pendidikan D3 atau setara dari seluruh area bisnis, termasuk manufaktur, konstruksi, pelayanan, hospitality, transportasi, rumah sakit, supermarket/hypermarket/retail, dan lainnya.</p>
+        <h3>Persyaratan Administrasi</h3>
+<p>
+
+1.	Pendidikan terakhir minimal D3<br>
+2.	Melampirkan foto copy ijazah terakhir<br>
+3.	Melampirkan foto copy KTP/SIM<br>
+4.	Melampirkan pas foto background merah ukuran 1,5cm x 2cm 4cm x 6cm masing-masing 4 lembar<br>
+5.	Melampirkan surat keterangan sehat dari klinik /RS terdekat<br>
+6.	Melampirkan surat pengantar /keterangan /penunjukan dari perusahaan<br>
+7.	Selfie dengan KTP<br>
+8.	Pakta Integritas
+</p>
+
+
+
+
+
+
+
+
+
+  <h3>Metode Pelatihan</h3>
+<p>•	Pre-Test<br>
+•	Penjelasan materi/presentasi<br>
+•	Film/Video<br>
+•	Studi Kasus<br>
+•	Diskusi dan tanya-jawab<br>
+•	Ringkasan dan kesimpulan<br>
+•	Post Test/Assessment<br>
+ </p>
+
+
+<h3>Biaya Pelatihan</h3>
+    
+    
+    <strong>*Biaya mengikuti Poster Jika terdapat Perbedaaan</strong><br>
+<strong>
+Rp. 3.900.000</strong>/Personal/Freshgraduate<br>
+<strong>
+Rp. 4.900.000</strong> Perusahaan
+<a href="https://indomedika.co.id/regist"   class="btn btn-success"><b>DAFTAR PELATIHAN AK3U - SERTIFIKASI K3 </b> </a>
+
+      </div>
+    </div>
+
+
+    <div class="row content">
+      <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
+        <img src="https://indomedika.co.id/public/web/assets/img/pelatihan/ak3u/k3u-2.webp" class="img-fluid" alt="Menyediakan jasa Pelatihan ( Pelatihan ak3u ) Ahli K3 Umum kemnaker RI Online ,Sertifikasi K3, Sertifikat K3 , Sertifikasi AK3U , ak3 Umum">
+      </div>
+      <div class="col-md-8 pt-5 order-2 order-md-1" data-aos="fade-up">
+        <h3> Syarat Media Pendukung Ahli K3 Umum</h3>
+1.	Pelaksanaan training berlangsung selama 12 hari secara online melalui Zoom dan Google Classroom<br>
+2.	Peserta Belajar dan Ujian menggunakan Laptop yang sudah terinstall aplikasi zoom dan google classroom<br>
+3.	Peserta Absensi menggunakan Smartphone yang sudah terinstall aplikasi Timestamp<br>
+4.	Peserta memiliki Account Google<br>
+5.	Peserta wajib memilik Jaringan Internet yang stabil selama proses Belajar dan Ujian. Pemakaian internet perhari 4 GB. Panitia Tidak menyediakan jaringan internet peserta.<br>
+6.	Peserta wajib melakukan 3 kali absensi (Pagi,Siang dan Sore) pada aplikasi timestamp sebegai bukti kehadiran yang akan diberikan kepada kemnaker RI sebagai bahan evaluasi kelulusan<br>
+7.	Peserta wajib selalu mengaktifkan kamera Ketika selama proses pembelajaran berlangung.<br>
+ <br>
+
+ 
+  <h3>Fasilitas yang didapatkan</h3><p>
+ 
+1.	Sertifikat Calon Ahli K3 Umum Kemnaker RI<br>
+2.	9 sertifikat internal dari Indo Medika<br>
+3.	Surat Keputusan Penunjukan (SKP) Ahli K3 Umum Kemnaker RI dan Kartu Tanda Kewenangan (Lisensi) Ahli K3 Umum Kemnaker RI (Khusus peserta yang mendaftar dari perusahaan)
+4.	Pin + Lencana K3<br>
+5.	Buku Undang-undang K3<br>
+6.	Notebook dan Souvenir<br>
+7.	5 E-certificate dari Indo Medika International<br>
+&nbsp;&nbsp;&nbsp;•	Calon Ahli K3 Umum<br>
+&nbsp;&nbsp;&nbsp;•	Introduction Risk Management<br>
+&nbsp;&nbsp;&nbsp;•	Introduction JSA (Job Safety Analysis)<br>
+&nbsp;&nbsp;&nbsp;•	Introduction HIRADC (Hazard Identification, Risk Assessment, Determining Control)<br>
+&nbsp;&nbsp;&nbsp;•	Introduction Audit SMK3<br>
+8.	Surat Keterangan (SK) dari PJK3 Indo Medika International<br>
+9.	Free training non sertifikasi untuk peserta yang sudah lulus Ahli K3 Umum di Indo Medika International.<br>
+&nbsp;&nbsp;&nbsp;•	Safety Leadership<br>
+&nbsp;&nbsp;&nbsp;•	ISO 90001, 450001<br>
+&nbsp;&nbsp;&nbsp;•	Fit to Work<br>
+&nbsp;&nbsp;&nbsp;•	Petugas P3K </p>
+ 
+ 
+ 
+
+<a href="https://indomedika.co.id/regist"    class="btn btn-success"><b>DAFTAR PELATIHAN AK3U - SERTIFIKASI K3 </b>  </a>
+
+      </div>
+    </div>
+
+
+
+
+
+
+
+
+  </div>
+</section>
+
+
+<section id="team" class="team" style="background-color:#50cf7a3b">
+           
+      <div   class=" col-md-12"> 
+      
+      <div class="section-title" data-aos="fade-up">
+
+          <p align=center> Jadwal Pelatihan SERTIFIKASI K3</p>
+          
+        </div>
+      
+      
+      
+      <div   class=" col-md-10 mx-auto" >    
+      <div class="table-responsive" >
+          <p style="color:black;margin: 10px;"><b>
+    *update Februari 2022<br><b>[Klik] Nama Pelatihan Untuk Mendaftar</b> </p>
+    <table class="table table-bordered" style="background-color:#50cf7a3b;border-color: #010483;" >
+      <thead>
+        <tr style="text-align:center;vertical-align:middle;color:#010483;">
+         
+          
+          <th><h3>Nama Pelatihan </h3></th>
+         
+          <th ><h3>Jadwal</h3></th>
+          <th ><h3>Biaya Pelatihan</h3></th>
+         
+          
+        </tr>
+      </thead>
+               
+     
+      <tbody>
+        <tr style="vertical-align:middle  ; color:#010483;" >
+          
+          
+          <td>
+              
+         <a style="color:#010483;" href="https://indomedika.co.id/training/regist_ahli_K3_umum" >PELATIHAN AK3U - AHLI K3 UMUM KEMNAKER RI  - AK3UB1 - <font  style="color:#006c00;">
+             
+             <i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+         
+         Online Training</font></a></td>
+        
+          <td style="color:#010483;">01--16 Maret 2022          
+          
+          
+          
+          
+          <center>
+                <a class='btn btn-success' style="text-align:center" href='https://indomedika.co.id/training/regist_ahli_K3_umum' role='button'>Daftar&nbsp;</a>
+              </center>
+          
+          
+          
+          </td>
+          <td>
+        <p style="color:#870000">Rp.
+        3,900,000        
+                 
+         
+         </p>
+         <p style="color:#5301ad;">
+        
+        
+         Rp.4,900,000        
+                     
+            </p>  
+              </td>
+              
+              
+              
+             
+        </tr>
+      </tbody>
+   
+       
+       
+       
+               
+     
+      <tbody>
+        <tr style="vertical-align:middle  ; color:#010483;" >
+          
+          
+          <td>
+              
+         <a style="color:#010483;" href="https://indomedika.co.id/training/regist_ahli_K3_umum" >PELATIHAN AK3U - AHLI K3 UMUM KEMNAKER RI  - AK3UB2 - <font  style="color:#006c00;">
+             
+             <i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+         
+         Online Training</font></a></td>
+        
+          <td style="color:#010483;">06--21 April 2022          
+          
+          
+          
+          
+          <center>
+                <a class='btn btn-success' style="text-align:center" href='https://indomedika.co.id/training/regist_ahli_K3_umum' role='button'>Daftar&nbsp;</a>
+              </center>
+          
+          
+          
+          </td>
+          <td>
+        <p style="color:#870000">Rp.
+        3,900,000        
+                 
+         
+         </p>
+         <p style="color:#5301ad;">
+        
+        
+         Rp.4,900,000        
+                     
+            </p>  
+              </td>
+              
+              
+              
+             
+        </tr>
+      </tbody>
+   
+       
+       
+       
+               
+     
+      <tbody>
+        <tr style="vertical-align:middle  ; color:#010483;" >
+          
+          
+          <td>
+              
+         <a style="color:#010483;" href="https://indomedika.co.id/training/regist_ahli_K3_umum" >PELATIHAN AK3U - AHLI K3 UMUM KEMNAKER RI  - AK3UB3 - <font  style="color:#006c00;">
+             
+             <i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+         
+         Online Training</font></a></td>
+        
+          <td style="color:#010483;">16--31 Mei 2022          
+          
+          
+          
+          
+          <center>
+                <a class='btn btn-success' style="text-align:center" href='https://indomedika.co.id/training/regist_ahli_K3_umum' role='button'>Daftar&nbsp;</a>
+              </center>
+          
+          
+          
+          </td>
+          <td>
+        <p style="color:#870000">Rp.
+        3,900,000        
+                 
+         
+         </p>
+         <p style="color:#5301ad;">
+        
+        
+         Rp.4,900,000        
+                     
+            </p>  
+              </td>
+              
+              
+              
+             
+        </tr>
+      </tbody>
+   
+       
+       
+       
+               
+     
+      <tbody>
+        <tr style="vertical-align:middle  ; color:#010483;" >
+          
+          
+          <td>
+              
+         <a style="color:#010483;" href="https://indomedika.co.id/training/regist_ahli_K3_umum" >PELATIHAN AK3U - AHLI K3 UMUM KEMNAKER RI  - AK3UB4 - <font  style="color:#006c00;">
+             
+             <i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+         
+         Online Training</font></a></td>
+        
+          <td style="color:#010483;">08--23 Juni 2022          
+          
+          
+          
+          
+          <center>
+                <a class='btn btn-success' style="text-align:center" href='https://indomedika.co.id/training/regist_ahli_K3_umum' role='button'>Daftar&nbsp;</a>
+              </center>
+          
+          
+          
+          </td>
+          <td>
+        <p style="color:#870000">Rp.
+        3,900,000        
+                 
+         
+         </p>
+         <p style="color:#5301ad;">
+        
+        
+         Rp.4,900,000        
+                     
+            </p>  
+              </td>
+              
+              
+              
+             
+        </tr>
+      </tbody>
+   
+       
+       
+       
+               
+     
+      <tbody>
+        <tr style="vertical-align:middle  ; color:#010483;" >
+          
+          
+          <td>
+              
+         <a style="color:#010483;" href="https://indomedika.co.id/training/regist_k3rs" >PELATIHAN K3RS & FASYANKES | SERTIFIKASI KAK3RS - K3RSB1 - <font  style="color:#006c00;">
+             
+             <i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+         
+         Online Training</font></a></td>
+        
+          <td style="color:#010483;">30--31 Maret 2022          
+          
+          
+          
+          
+          <center>
+                <a class='btn btn-success' style="text-align:center" href='https://indomedika.co.id/training/regist_k3rs' role='button'>Daftar&nbsp;</a>
+              </center>
+          
+          
+          
+          </td>
+          <td>
+        <p style="color:#870000">Rp.
+        1,490,000        
+                 
+         
+         </p>
+         <p style="color:#5301ad;">
+        
+        
+         Rp.1,275,000        
+       (Promo 2 Peserta)              
+            </p>  
+              </td>
+              
+              
+              
+             
+        </tr>
+      </tbody>
+   
+       
+       
+       
+               
+     
+      <tbody>
+        <tr style="vertical-align:middle  ; color:#010483;" >
+          
+          
+          <td>
+              
+         <a style="color:#010483;" href="https://indomedika.co.id/training/regist_k3rs" >PELATIHAN K3RS & FASYANKES | SERTIFIKASI KAK3RS - K3RSB2 - <font  style="color:#006c00;">
+             
+             <i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+         
+         Online Training</font></a></td>
+        
+          <td style="color:#010483;">10--11 Mei 2022          
+          
+          
+          
+          
+          <center>
+                <a class='btn btn-success' style="text-align:center" href='https://indomedika.co.id/training/regist_k3rs' role='button'>Daftar&nbsp;</a>
+              </center>
+          
+          
+          
+          </td>
+          <td>
+        <p style="color:#870000">Rp.
+        1,490,000        
+                 
+         
+         </p>
+         <p style="color:#5301ad;">
+        
+        
+         Rp.1,275,000        
+       (Promo 2 Peserta)              
+            </p>  
+              </td>
+              
+              
+              
+             
+        </tr>
+      </tbody>
+   
+       
+       
+       
+               
+     
+      <tbody>
+        <tr style="vertical-align:middle  ; color:#010483;" >
+          
+          
+          <td>
+              
+         <a style="color:#010483;" href="https://indomedika.co.id/training/regist_k3rs" >PELATIHAN K3RS & FASYANKES | SERTIFIKASI KAK3RS - K3RSB3 - <font  style="color:#006c00;">
+             
+             <i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+         
+         Online Training</font></a></td>
+        
+          <td style="color:#010483;">29--30 Juni 2022          
+          
+          
+          
+          
+          <center>
+                <a class='btn btn-success' style="text-align:center" href='https://indomedika.co.id/training/regist_k3rs' role='button'>Daftar&nbsp;</a>
+              </center>
+          
+          
+          
+          </td>
+          <td>
+        <p style="color:#870000">Rp.
+        1,490,000        
+                 
+         
+         </p>
+         <p style="color:#5301ad;">
+        
+        
+         Rp.1,275,000        
+       (Promo 2 Peserta)              
+            </p>  
+              </td>
+              
+              
+              
+             
+        </tr>
+      </tbody>
+   
+       
+       
+       
+               
+     
+      <tbody>
+        <tr style="vertical-align:middle  ; color:#010483;" >
+          
+          
+          <td>
+              
+         <a style="color:#010483;" href="https://indomedika.co.id/training/regist_refres_ahli_K3_umum" >REFRESMENT AK3U - AHLI K3 UMUM KEMNAKER RI  - RAK3UB1 - <font  style="color:#006c00;">
+             
+             <i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+         
+         Online Training</font></a></td>
+        
+          <td style="color:#010483;">11--16 Maret 2022          
+          
+          
+          
+          
+          <center>
+                <a class='btn btn-success' style="text-align:center" href='https://indomedika.co.id/training/regist_refres_ahli_K3_umum' role='button'>Daftar&nbsp;</a>
+              </center>
+          
+          
+          
+          </td>
+          <td>
+        <p style="color:#870000">Rp.
+        3,200,000        
+                 
+         
+         </p>
+         <p style="color:#5301ad;">
+        
+        
+                
+                     
+            </p>  
+              </td>
+              
+              
+              
+             
+        </tr>
+      </tbody>
+   
+       
+       
+       
+               
+     
+      <tbody>
+        <tr style="vertical-align:middle  ; color:#010483;" >
+          
+          
+          <td>
+              
+         <a style="color:#010483;" href="https://indomedika.co.id/training/regist_refres_ahli_K3_umum" >REFRESMENT AK3U AHLI K3 UMUM KEMNAKER RI  - RAK3UB2 - <font  style="color:#006c00;">
+             
+             <i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+         
+         Online Training</font></a></td>
+        
+          <td style="color:#010483;">18--21 April 2022          
+          
+          
+          
+          
+          <center>
+                <a class='btn btn-success' style="text-align:center" href='https://indomedika.co.id/training/regist_refres_ahli_K3_umum' role='button'>Daftar&nbsp;</a>
+              </center>
+          
+          
+          
+          </td>
+          <td>
+        <p style="color:#870000">Rp.
+        3,200,000        
+                 
+         
+         </p>
+         <p style="color:#5301ad;">
+        
+        
+                
+                     
+            </p>  
+              </td>
+              
+              
+              
+             
+        </tr>
+      </tbody>
+   
+       
+       
+       
+               
+     
+      <tbody>
+        <tr style="vertical-align:middle  ; color:#010483;" >
+          
+          
+          <td>
+              
+         <a style="color:#010483;" href="https://indomedika.co.id/training/regist_refres_ahli_K3_umum" >REFRESMENT AK3U AHLI K3 UMUM KEMNAKER RI  - RAK3UB3 - <font  style="color:#006c00;">
+             
+             <i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+         
+         Online Training</font></a></td>
+        
+          <td style="color:#010483;">26--31 Mei 2022          
+          
+          
+          
+          
+          <center>
+                <a class='btn btn-success' style="text-align:center" href='https://indomedika.co.id/training/regist_refres_ahli_K3_umum' role='button'>Daftar&nbsp;</a>
+              </center>
+          
+          
+          
+          </td>
+          <td>
+        <p style="color:#870000">Rp.
+        3,200,000        
+                 
+         
+         </p>
+         <p style="color:#5301ad;">
+        
+        
+                
+                     
+            </p>  
+              </td>
+              
+              
+              
+             
+        </tr>
+      </tbody>
+   
+       
+       
+       
+               
+     
+      <tbody>
+        <tr style="vertical-align:middle  ; color:#010483;" >
+          
+          
+          <td>
+              
+         <a style="color:#010483;" href="https://indomedika.co.id/training/regist_refres_ahli_K3_umum" >REFRESMENT AK3U AHLI K3 UMUM KEMNAKER RI  - RAK3UB4 - <font  style="color:#006c00;">
+             
+             <i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+         
+         Online Training</font></a></td>
+        
+          <td style="color:#010483;">20--23 Juni 2022          
+          
+          
+          
+          
+          <center>
+                <a class='btn btn-success' style="text-align:center" href='https://indomedika.co.id/training/regist_refres_ahli_K3_umum' role='button'>Daftar&nbsp;</a>
+              </center>
+          
+          
+          
+          </td>
+          <td>
+        <p style="color:#870000">Rp.
+        3,200,000        
+                 
+         
+         </p>
+         <p style="color:#5301ad;">
+        
+        
+                
+                     
+            </p>  
+              </td>
+              
+              
+              
+             
+        </tr>
+      </tbody>
+   
+       
+       
+       
+               
+     
+      <tbody>
+        <tr style="vertical-align:middle  ; color:#010483;" >
+          
+          
+          <td>
+              
+         <a style="color:#010483;" href="https://indomedika.co.id/training/regist_online_audio_spiro" >TRAINING ONLINE SPIROMETRI & AUDIOMETRI - SAB2 - <font  style="color:#006c00;">
+             
+             <i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+         
+         Online Training</font></a></td>
+        
+          <td style="color:#010483;">21--23 Maret 2022          
+          
+          
+          
+          
+          <center>
+                <a class='btn btn-success' style="text-align:center" href='https://indomedika.co.id/training/regist_online_audio_spiro' role='button'>Daftar&nbsp;</a>
+              </center>
+          
+          
+          
+          </td>
+          <td>
+        <p style="color:#870000">Rp.
+        3,200,000        
+        (Normal)         
+         
+         </p>
+         <p style="color:#5301ad;">
+        
+        
+         Rp.2,800,000        
+       (Early Bird)              
+            </p>  
+              </td>
+              
+              
+              
+             
+        </tr>
+      </tbody>
+   
+       
+       
+       
+               
+     
+      <tbody>
+        <tr style="vertical-align:middle  ; color:#010483;" >
+          
+          
+          <td>
+              
+         <a style="color:#010483;" href="https://indomedika.co.id/training/regist_online_audio_spiro" >TRAINING ONLINE SPIROMETRI & AUDIOMETRI - SAB3 - <font  style="color:#006c00;">
+             
+             <i class="fa fa-dot-circle-o" aria-hidden="true"></i>
+         
+         Online Training</font></a></td>
+        
+          <td style="color:#010483;">11--13 Juli 2022          
+          
+          
+          
+          
+          <center>
+                <a class='btn btn-success' style="text-align:center" href='https://indomedika.co.id/training/regist_online_audio_spiro' role='button'>Daftar&nbsp;</a>
+              </center>
+          
+          
+          
+          </td>
+          <td>
+        <p style="color:#870000">Rp.
+        3,200,000        
+        (Normal)         
+         
+         </p>
+         <p style="color:#5301ad;">
+        
+        
+         Rp.2,800,000        
+       (Early Bird)              
+            </p>  
+              </td>
+              
+              
+              
+             
+        </tr>
+      </tbody>
+   
+       
+       
+       
+               
+        </table> 
+       </b>
+          
+        </div>  
+           </div>
+           </div>
+          
+          
+          <p>&nbsp;</p>
+          
+          
+ 
+ 
+            </div>  
+           </div>
+           </div>
+           </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title" id="exampleModalLabel"> Cek Sertifikat Pelatihan</h1>
+       
+      </div>
+      <div class="modal-body">
+        
+          <div class="form-group">
+             <form action="https://indomedika.co.id/training/cek_sertifikat" method="post">
+            
+            
+             <div class="section-title" data-aos="fade-up">
+        <h2>
+       Cek Sertifikat </h2>
+       <br><br>
+      </div>
+         <div  class="search "> 
+          <i class="fa fa-search"></i> <input name="cari" type="text" size=20 class="form-control" placeholder="ketikan Nama..."> <button class="btn btn-primary">Cari</button> </div>
+            
+            
+     
+    </form>
+          </div>
+                  
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog"  aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+        
+        
+        
+        </div>
+  </div>
+</div>
+
+
+
+
+  <div id="mainpopup" class="modal" data-close="10" data-open="2" tabindex="-1">
+    <div class="modal-dialog"  >
+      <div class="modal-content" style="background-color:#d7f4e0">
+       
+        <div class="modal-body">
+            
+            
+            
+            
+     
+   
+   
+   
+   
+  
+
+
+  
+                  
+
+                  <img src="https://indomedika.co.id/public/web/assets/img/training/ak3u2.webp" class="img-fluid animated d-block w-100" alt="...">
+
+
+        <div class="modal-footer" style="background-color:#d7f4e0" >
+            
+              <a  class="btn btn-primary" style='text-align:center; color:white; font-size: medium; ' href="https://indomedika.co.id/training/regist_ahli_K3_umum">Daftar</a>
+            
+            
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close </button>
+          
+          
+           <p>Mohon maaf Nomer Telepon resmi kami</p>
+<p><strong>021 227 80 119</strong></p>
+<p><strong>Berubah sementara ke 021 227 80 121</strong></p>
+          
+        </div>
+      
+          
+
+            
+
+
+        </div>
+      </div>
+    </div>
+    
+    
+    
+  </div> 
+
+         
+
+
+
+         
+
+
+       
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+
+
+
+    <div class="footer-top">
+
+
+
+
+
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-4 col-md-6">
+              
+         
+            <div class="footer-info">
+           <a href="https://indomedika.co.id">   
+        <img src="https://indomedika.co.id/public/web/assets/img/index/logo.png" alt="Logo Indo medika International"   width="100" height="55" />
+             &nbsp;</a>  <br>  <br>  
+              <h3 style=" color: white; text-align:center"  >PT.Megatama Adikarya</h3>
+             
+<p >
+			  <a style=" color: #d7f4e0; text-align:center" href=" https://www.google.com/maps?ll=-6.298334,106.829914&z=15&t=m&hl=en&gl=ID&mapclient=embed&cid=15415339108658464636">
+			  
+               Plaza oleos LG Floor Unit B
+Jalan TB Simatupang Kav 53A
+Kebagusan, Pasar Minggu,
+Jakarta Selatan 12520
+			   <br>
+				</a>
+
+
+
+
+                <strong>Phone:</strong> <a style="color: #d7f4e0;text-align:center"  href="tel:02122780121">021 227 80 121</a><br>
+                <strong>Email:</strong>  <a style="color: #d7f4e0;text-align:center" href=" mailto:cs@indomedika.co.id">
+				  cs@indomedika.co.id</a><br>
+              </p>
+
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-6 col-md-2 footer-links">
+              
+            <h4>Menu</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://indomedika.co.id">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://indomedika.co.id/servicesus/">Pelayanan</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://indomedika.co.id/regist/">Pelatihan</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://indomedika.co.id/regist">Daftar </a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://indomedika.co.id/contact">Hubungi Kami</a></li>
+              
+                <li><i class="bx bx-chevron-right"></i> <a href="https://indomedika.co.id/faq/privacy_policy">Privacy Policy</a></li>
+            </ul>
+          </div>
+      
+          <div class="col-lg-2 col-6 col-md-2 footer-links">
+            <h4>&nbsp;</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://artikel.indomedika.co.id">Artikel</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://indomedika.co.id/career">Karir</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://indomedika.co.id/about/client">Klien</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://indomedika.co.id/about/partner">Partner</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://indomedika.co.id/faq/">FAQ </a></li>
+              
+              
+             
+            </ul>
+          </div>
+
+          <div class="col-lg-4  col-md-6 footer-newsletter">
+           
+             <div class="footer-info">
+             <h5 style="color: white;text-align:left">
+              
+              Alarm Center Hotline
+
+              
+              
+              Indo Medika International</h5>
+              
+            <h4 style="color: white;text-align:left">021 227 80 121 ext 1</h4>
+            
+            
+            </div>
+
+
+			<div class="social-links mt-3">
+			
+			
+			
+	 
+          
+			    
+     <table   style="color:#010246; font-weight: bold; text-align:left">
+         
+        <tr>
+            <td colspan=2 >
+                
+                
+                
+                
+           
+                
+                
+            </td>
+            
+            
+        </tr>
+         
+         
+   
+         
+         
+        
+        <tr>
+            <td>Page Views (2018-Now)&nbsp;&nbsp; </td>
+            <td><i class="fa fa-bar-chart fa-fw"></i>&nbsp;&nbsp;408,825</td>
+        </tr>
+        <tr>
+            <td>Page Views Today</td>
+            <td><i class="fa fa-user fa-fw"></i>&nbsp;&nbsp;
+            
+            248           
+    
+            
+            
+                </td>
+        </tr>
+        <tr>
+            <td> Your IP address</td>
+            <td><i class="fa fa-check fa-fw"></i>&nbsp;&nbsp;180.252.102.104</td>
+        </tr>
+        
+        
+        
+           <tr>
+            <td colspan=2>
+            
+            	  
+
+
+
+<div id="share">
+
+  <!-- facebook -->
+  <a class="facebook" href="https://www.facebook.com/pages/category/Occupational-Safety-and-Health-Service/Indo-Medika-International-106990891054989/"  aria-label="Twitter" target="blank"><i class="fa fa-facebook" ></i>
+  
+  
+  </a>
+
+  <!-- twitter -->
+  <a class="twitter" href="https://twitter.com/IndoMedika?s=20" aria-label="Twitter" target="blank"><i class="fa fa-twitter"></i>
+ 
+  
+  
+  </a>
+
+  <!-- google plus -->
+  <a class="googleplus" href="https://www.youtube.com/channel/UCowZMjrdEjZDI-gOD3Q3Bjw/featured" aria-label="Twitter"><i class="fa fa-youtube"></i></a>
+
+  <!-- linkedin -->
+  <a class="linkedin" href="https://www.linkedin.com/company/indo-medika-international/" aria-label="Twitter" target="blank"><i class="fa fa-linkedin"></i></a>
+  
+  <!-- pinterest -->
+  <a class="pinterest" href="https://www.instagram.com/indomedikainternational/" target="blank" aria-label="Twitter"><i class="fa fa-instagram"></i></a>
+  
+</div>
+            
+            
+            
+            </td>
+           
+        </tr>
+        
+        
+        
+    </table>
+    
+<br>
+
+			    
+
+		
+<!--
+<table width="300 px" >
+			  <tr>
+
+
+			   <td>
+			   <a href="https://www.facebook.com/pages/category/Occupational-Safety-and-Health-Service/Indo-Medika-International-106990891054989/" class="facebook"><i style="font-size: 60px;"class="bx bxl-facebook"></i></a>
+
+			  </td>
+
+			   <td>
+			     <a href=" https://www.instagram.com/indomedikainternational/" class="instagram"><i style="font-size: 60px; "class="bx bxl-instagram"></i></a>
+
+			  </td>
+
+			   <td>
+
+			     <a href="https://www.youtube.com/channel/UCowZMjrdEjZDI-gOD3Q3Bjw/featured" class="google-plus"><i style="font-size: 60px; " class="bx bxl-youtube"></i></a>
+			  </td>
+			  <td>
+			   <a href="https://twitter.com/IndoMedika?s=20" class="linkedin"><i style="font-size: 60px; " class="bx bxl-twitter"></i></a>
+			  </td>
+			  <td>
+			   <a href="https://www.linkedin.com/company/indo-medika-international/" class="linkedin"><i style="font-size: 60px; " class="bx bxl-linkedin"></i></a>
+			  </td>
+
+			  </tr>
+
+
+
+			  </table>
+
+-->
+
+
+
+
+              </div>
+
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright" style =" color: black">
+
+   Megatama Adikarya
+
+
+      </div>
+    </div>
+
+
+
+
+  </footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <div class="social-button" title="Live Chat">
+  <i class="fa fa-comments-o" id="social-icon" ></i>
+  <a hidden class="social-point" href="https://api.whatsapp.com/send?phone=+6282110039600&text=Halo...." target="_blank" rel="noopener" title="Whatsapp"><i class="fab fa-whatsapp" ></i></a>
+  <a hidden class="social-point" href="mailto:cs@indomedika.co.id"
+    title="Email"><i class="fas fa-envelope" ></i></a>
+  <a hidden class="social-point" href="tel:+622122780121" target="_blank" rel="nofollow" title="Phone"><i class="fas fa-phone" ></i></a>
+  
+  
+ 
+
+</div>
+
+
+
+
+
+
+
+
+
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+ 
+
+  <!-- Vendor JS Files -->
+  <script src="https://indomedika.co.id/public/web/assets/vendor/aos/aos.js"></script>
+  <script src="https://indomedika.co.id/public/web/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="https://indomedika.co.id/public/web/assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="https://indomedika.co.id/public/web/assets/vendor/php-email-form/validate.js"></script>
+  <script src="https://indomedika.co.id/public/web/assets/vendor/purecounter/purecounter.js"></script>
+  <script src="https://indomedika.co.id/public/web/assets/vendor/swiper/swiper-bundle.min.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="https://indomedika.co.id/public/web/assets/js/main.js"></script>
+
+
+
+
+<script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+  
+  
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+
+
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js"></script> 
+    
+    
+ 
+  <script>
+  
+  $(function() {
+  var popup = $('#mainpopup');
+  var time = $(".will-close strong");
+  var closeSeconds = $("#mainpopup").attr("data-close");
+  var openSeconds = $("#mainpopup").attr("data-open");
+  var dataSrc = $("#mainpopup").attr("data-href");
+
+
+  setTimeout(function(e) {
+
+    popup.modal('show');
+    time.html(closeSeconds);
+
+    setInterval(function(){
+      time.html(closeSeconds);
+      closeSeconds--;
+
+      if(closeSeconds < 0){
+        popup.modal('hide');
+      }
+
+    }, 1000)
+
+  }, openSeconds * 3000);
+
+  ;
+
+
+}); </script>
+
+
+
+
+
+<script>
+
+
+var social_open = false
+window.addEventListener('load', () => {
+  const menu = document.querySelector('.social-button');
+
+  menu.addEventListener('click', () => {
+    const icon = document.querySelector('#social-icon');
+    if(social_open == true) {
+      social_open = false;
+
+      menu.title = menu.title.replace(/hide/,"expand")
+      menu.classList.remove('social-button-open')
+      icon.classList.remove('fa-times')
+      icon.classList.add('fa-cloud')
+
+      var menu_point = document.querySelectorAll(".social-point");
+      for (let i = 0; i < menu_point.length; i++) {
+          menu_point[i].classList.remove('social-point-open');
+        setTimeout(function() {
+          menu_point[i].hidden = true;
+        }, 800)
+      }
+    } else {
+      social_open = true;
+
+      menu.title = menu.title.replace(/expand/,"hide")
+      menu.classList.add('social-button-open');
+           icon.classList.remove('fa-cloud')
+      icon.classList.add('fa-times')
+
+      var menu_point = document.querySelectorAll(".social-point");
+      for (let i = 0; i < menu_point.length; i++) {
+        menu_point[i].hidden = false;
+        setTimeout(function() {
+          menu_point[i].classList.add('social-point-open');
+        }, 200)
+      }
+    }
+  });
+})
+
+
+
+
+</script>
+
+
+
+
+    <script >
+        $(document).ready(function() {
+            $("#news-slider").owlCarousel({
+                items : 2,
+                itemsDesktop : [1219,2],
+                itemsMobile : [600,1],
+                pagination :true,
+                autoPlay : true
+            });
+        });
+    </script>   
+    
+    
+    
+    
+    
+
+</body>
+
+
+
+    
+    
+    
+    
+
+</html>
